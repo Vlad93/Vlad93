@@ -53,13 +53,13 @@ Link to my profile on CodeWars: [Vlad93](https://www.codewars.com/users/Vlad93) 
 2. [**Memory secrets**](https://vlad93.github.io/MemorySecterts) - Memory secrets game (*HTML*, *JS*, *es-6 modules*, *Classes*, *Bootstrap*, *MVC*)[source code](https://github.com/Vlad93/MemorySecterts)
 3. [**Blanchard**](https://vlad93.github.io/blanchard.github.io) - Art gallery website layout (*HTML*, *JS*, *CSS*, *Flexbox*) [source code](https://github.com/Vlad93/blanchard.github.io)
 4. [**Cyberok**](https://www.cyberok.ru) - Turnkey website (*HTML*, *JS*, *CSS*)
-5. [**ВВМебель**](https://xn--90abamb0bd6k.xn--p1ai) - Furniture catalog (*HTML*, *JS*, *CSS*, *PHP*, *WordPress*, *WooCommerce*)
+5. [**Radema**](https://radema.ru) - Marketing agency (*HTML*, *JS*, *CSS*, *PHP*, *WordPress*)
 
 ## Education
 * **Belarusian State University of Transport (BelSUT)**
 * **WayUp:** *'Web developer: freelancer code'* course
-* **Skillbox:** *'Web-layout'* course
-* **Skillbox:** *'JavaScript'* course
+* **Skillbox:** *'Web-layout'* and *'JavaScript'* courses
+* **Rolling Scopes:** *Stage 1. JavaScript/Front-end* 
 
 ## Languages
 * Russian - native
