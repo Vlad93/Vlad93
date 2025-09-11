@@ -1,35 +1,30 @@
-# **Vladislav Seluk**
+# **Uladzislau Sialiuk**
+
 *****
 ## **Contacts**
-* **Location:** Gomel, Belarus
-* **Email:** selukvlad@gmail.com
-* **Phone:** +375(29)198-44-60
-* **Telegram:** [https://t.me/vladfutbik](https://t.me/vladfutbik)
+* **Location:** Homel, Belarus
+* **Email:** [selukvlad12@gmail.com](mailto:selukvlad12@gmail.com)
+* **Phone:** [+375(29)198-44-60](tel:+375(29)198-44-60)
+* **Telegram:** [vladfutbik](https://t.me/vladfutbik)
 * **Instagram:** [https://www.instagram.com/vladseluk](https://www.instagram.com/vladseluk)
 * **WhatsApp:** +375(29)198-44-60
 * **Profile on freelance.ru:** [https://freelance.ru/vladsel](https://freelance.ru/vladsel)
 * **GitHub:** [https://github.com/Vlad93](https://github.com/Vlad93)
 
 ## Profile
-I am 30 years old. I am a former professional football player. 
-Now I strive to become a software engineer and devote most of my time to this. 
-I took various courses, improved my skills, worked as a freelancer and continue to constantly learn something new.
+I am a former professional futsal player (Belarus National Team).
+
+I took various courses, improved my skills, worked as a web developer(Wordpress primally) and freelancer. Now I continue to constantly learn something new.
+
 At the moment, my main goal is to fill the gaps in knowledge about the JavaScript language and master the React library.
 
 ## Skills and Technologies
-* ***HTML***
-* ***CSS***
-* ***SASS***(*SCSS*), ***Pug***
-* ***BEM***
-* ***JavaScript***
-* ***GULP***
-* ***Parcel***, ***Webpack***
-* ***Jest***, ***Cypress***
-* ***npm***
-* ***Git***
-* ***Prettier***, ***ESLint***
-* ***PHP***(*beginner*)
-* ***CMS WordPress***(*acf*, *WooCommerce*, *CF7*)
+![HTML5](html.png "HTML5") ![CSS](css.png "CSS") ![Sass](sass.png "Sass") ![JS](js.png "JS") ![php](php.png "php") ![Wordpress](wps.png "Wordpress")
+
+![Gulp](gulp.png "Gulp") ![Vite](vite.png "Vite") ![Webpack](webpack.png "Webpack") ![Git](git.png "Git")
+
+![Jest](jest.png "Jest") ![ESlint](lint.png "ESlint")
+
 
 ## Code Examples
 My solution of [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) Kata on CodeWars.
@@ -49,19 +44,21 @@ function persistence(num) {
 Link to my profile on CodeWars: [Vlad93](https://www.codewars.com/users/Vlad93) ![Profile Badge](https://www.codewars.com/users/Vlad93/badges/small)
 
 ## Experience 
-1. [**SitDownPls**](https://vlad93.github.io/SitDownPls.github.io) - Online store layout (*HTML*, *JS*, *SCSS*, *Gulp*, *Flexbox*, *Grid*) [source code](https://github.com/Vlad93/SitDownPls.github.io)
-2. [**Memory secrets**](https://vlad93.github.io/MemorySecterts) - Memory secrets game (*HTML*, *JS*, *es-6 modules*, *Classes*, *Bootstrap*, *MVC*)[source code](https://github.com/Vlad93/MemorySecterts)
-3. [**Blanchard**](https://vlad93.github.io/blanchard.github.io) - Art gallery website layout (*HTML*, *JS*, *CSS*, *Flexbox*) [source code](https://github.com/Vlad93/blanchard.github.io)
-4. [**Cyberok**](https://www.cyberok.ru) - Turnkey website (*HTML*, *JS*, *CSS*)
-5. [**Radema**](https://radema.ru) - Marketing agency (*HTML*, *JS*, *CSS*, *PHP*, *WordPress*)
+1. [**Автошкола Ягуар**](https://jaguar-avtoshkola.ru/) - Digital autoschool
+2. [**Radema**](https://radema.ru/) - Marketing agency site
+3. [**Dveri-prof**](https://dveri-prof.by/) - Doors catalog
+4. [**Народный выбор**](https://narodny-vybor.by/) - Voiting and blog site
+5. [**Колесо фортуны и квиз**](https://client.svetlyj.by/) - Quiz and wheel of fortune (layout and js)
+6. [**Senseclinic**](https://senseclinic.ru/) - Stomatology clinic
+
 
 ## Education
 * **Belarusian State University of Transport (BelSUT)**
-* **WayUp:** *'Web developer: freelancer code'* course
-* **Skillbox:** *'Web-layout'* and *'JavaScript'* courses
-* **Rolling Scopes:** *Stage 1. JavaScript/Front-end* 
+* **WayUp**
+* **Skillbox**
+* **RSSchool** (not complete 'JavaScript/Front-end')
 
 ## Languages
 * Russian - native
-* Belarusian - В1
+* Belarusian - native
 * English - A2 (B1 in progress)
