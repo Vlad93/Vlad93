@@ -48,7 +48,7 @@ Link to my profile on CodeWars: [Vlad93](https://www.codewars.com/users/Vlad93) 
 2. [**Radema**](https://radema.ru/) - Marketing agency site
 3. [**Dveri-prof**](https://dveri-prof.by/) - Doors catalog
 4. [**Народный выбор**](https://narodny-vybor.by/) - Voiting and blog site
-5. [**Колесо фортуны и квиз**](https://client.svetlyj.by/) - Quiz and wheel of fortune (layout and js)
+5. [**dr-ordgonikidze**](https://dr-ordgonikidze.ru) - Clinic
 6. [**Senseclinic**](https://senseclinic.ru/) - Stomatology clinic
 
 
