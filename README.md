@@ -49,8 +49,9 @@ Link to my profile on CodeWars: [Vlad93](https://www.codewars.com/users/Vlad93) 
 2. [**Radema**](https://radema.ru/) - Marketing agency site
 3. [**Dveri-prof**](https://dveri-prof.by/) - Doors catalog
 4. [**Народный выбор**](https://narodny-vybor.by/) - Voiting and blog site
-5. [**dr-ordzhonikidze.ru**]([https://dr-ordzhonikidze.ru/]) - Clinic
-6. [**Senseclinic**](https://senseclinic.ru/) - Stomatology clinic
+5. [**dr-ordzhonikidze.ru**](https://dr-ordzhonikidze.ru/
+6. ) - Clinic
+7. [**Senseclinic**](https://senseclinic.ru/) - Stomatology clinic
 
 
 ## Education
