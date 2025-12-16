@@ -5,6 +5,7 @@
 * **Location:** Homel, Belarus
 * **Email:** [selukvlad12@gmail.com](mailto:selukvlad12@gmail.com)
 * **Phone:** [+375(29)198-44-60](tel:+375(29)198-44-60)
+* 
 * **Telegram:** [vladfutbik](https://t.me/vladfutbik)
 * **Instagram:** [https://www.instagram.com/vladseluk](https://www.instagram.com/vladseluk)
 * **WhatsApp:** +375(29)198-44-60
@@ -48,7 +49,7 @@ Link to my profile on CodeWars: [Vlad93](https://www.codewars.com/users/Vlad93) 
 2. [**Radema**](https://radema.ru/) - Marketing agency site
 3. [**Dveri-prof**](https://dveri-prof.by/) - Doors catalog
 4. [**Народный выбор**](https://narodny-vybor.by/) - Voiting and blog site
-5. [**dr-ordgonikidze**](https://dr-ordgonikidze.ru) - Clinic
+5. [**dr-ordzhonikidze.ru**]([https://dr-ordzhonikidze.ru/]) - Clinic
 6. [**Senseclinic**](https://senseclinic.ru/) - Stomatology clinic
 
 
