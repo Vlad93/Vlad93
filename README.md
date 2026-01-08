@@ -62,4 +62,4 @@ Link to my profile on CodeWars: [Vlad93](https://www.codewars.com/users/Vlad93) 
 ## Languages
 * Russian - native
 * Belarusian - native
-* English - A2 (B1 in progress)
+* English - B1
